@@ -1,0 +1,11 @@
+{
+  "name": "product-apih",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/rajeev06code/product-apih.git",
+  "author": "rajeev_faarms <rajeevkumar@faarms.com>",
+  "license": "MIT",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}
